@@ -100,7 +100,7 @@ const loadVideo=(data)=>{
 
 
 
-      div.innerHTML=` <div class="card bg-base-100 w-80 h-80 shadow-sm">
+      div.innerHTML=` <div class="card bg-base-100 w-[300px] h-80 shadow-sm">
   <figure class="relative">
     <img 
       src="${video.thumbnail}"
